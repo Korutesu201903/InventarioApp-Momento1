@@ -1,2 +1,2 @@
-# InventarioApp-Momento1
-Proyecto Android – Inventario – Momento 1
+# InventarioApp
+Proyecto Android – Inventario
